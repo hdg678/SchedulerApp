@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ResumeApp</string>
+    <string name="contact">Contact Me</string>
+    <string name="tool">Favorite Tools</string>
+    <string name="trip">Places I\'ve Been</string>
+    <string name="schedules">Schedules</string>
+    <string name="event_title">Event Title</string>
+    <string name="choose_schedule_time">Choose Schedule Time</string>
+    <string name="choose_schedule_date">Choose Schedule Date</string>
+    <string name="SAVE">Save</string>
+</resources>
